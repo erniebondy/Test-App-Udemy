@@ -5,4 +5,7 @@ class PagesController < ApplicationController
     ## home.html.erb
     def home
     end
+
+    def about
+    end
 end
